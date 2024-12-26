@@ -9,6 +9,7 @@ export default function App() {
     </View>
   );
 }
+// esto es una prueba de grabacion
 
 const styles = StyleSheet.create({
   container: {
